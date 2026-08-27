@@ -10,6 +10,7 @@ A curated list of coding agents, runtimes, tooling, and reading for AI-assisted 
 - [opencode](https://opencode.ai) - Open source AI coding agent for terminal, IDE, and desktop. 75+ providers via Models.dev, LSP support, multi-session, shareable session links.
 - [Command Code](https://commandcode.ai) - Terminal coding agent that continuously learns your coding taste — every accept, reject, and edit becomes a signal distilled into reusable skills and memory.
 - [omp](https://omp.sh/) - A coding agent for the terminal with the IDE wired in: LSP, DAP, subagents, plan mode, hindsight memory, and hashline edits, powered by a native Rust engine.
+- [jcode](https://jcode.sh) - Open source terminal coding agent written in Rust, engineered for parallelism: dozens of lightweight concurrent sessions, prompt-cache-friendly append-only context, auto-poke persistence, built-in semantic memory, and self-dev mode.
 - [Pi](https://pi.dev) - Minimal, aggressively extensible agent harness. Primitives, not features: subagents, plan mode, and even MCP are extensions you build or install. See the companion blog post in [Interesting Reading](#interesting-reading).
 - [DeepSeek Harness](https://deepseek.com/harness/en/) - Agent harness where every capability is a plugin (models, tools, skills, sandboxes, UI) on the Cordis kernel, and every run is recorded in a traceable, replayable session log.
 
@@ -21,6 +22,7 @@ A curated list of coding agents, runtimes, tooling, and reading for AI-assisted 
 ## Editors & Review
 
 - [Delta](https://delta.dev) - Multiplayer environment for coding with agents, by the creators of Zed. Review alongside the agent in shared threads where every change keeps the conversation that produced it.
+- [Orca](https://www.onorca.dev/) - Open source Agent Development Environment. Run Claude Code, Codex, opencode, and other CLI agents side by side in isolated git worktrees, with a Ghostty-class terminal, built-in editor, browser design mode, and a mobile companion.
 
 ## Model Access
 
