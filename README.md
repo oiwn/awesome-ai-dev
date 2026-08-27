@@ -6,7 +6,7 @@ A curated list of coding agents, runtimes, tooling, and reading for AI-assisted 
 
 ## Coding Agents
 
-- [Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight open source coding agent that runs in your terminal. Rust, Apache 2.0.
+- [Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight open source coding agent that runs in your terminal.
 - [opencode](https://opencode.ai) - Open source AI coding agent for terminal, IDE, and desktop. 75+ providers via Models.dev, LSP support, multi-session, shareable session links.
 - [Command Code](https://commandcode.ai) - Terminal coding agent that continuously learns your coding taste — every accept, reject, and edit becomes a signal distilled into reusable skills and memory.
 - [omp](https://omp.sh/) - A coding agent for the terminal with the IDE wired in: LSP, DAP, subagents, plan mode, hindsight memory, and hashline edits, powered by a native Rust engine.
