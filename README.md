@@ -14,6 +14,14 @@ A curated list of coding agents, runtimes, tooling, and reading for AI-assisted 
 - [Pi](https://pi.dev) - Minimal, aggressively extensible agent harness. Primitives, not features: subagents, plan mode, and even MCP are extensions you build or install. See the companion blog post in [Interesting Reading](#interesting-reading).
 - [DeepSeek Harness](https://deepseek.com/harness/en/) - Agent harness where every capability is a plugin (models, tools, skills, sandboxes, UI) on the Cordis kernel, and every run is recorded in a traceable, replayable session log.
 
+# MCP servers
+
+- [Brave Search API](https://brave.com/search/api/) - Power your agents & chatbots with the world's largest independent index of the Web.
+- [Firecrawl](https://www.firecrawl.dev) - Give your AI agents web data and beyond
+- [Serper](https://serper.dev) - Experience unparalleled speed with our industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price.
+- [Exa](https://exa.ai) - Search the largest index of public web and private information.
+- [News Data](https://newsdata.io) - Best News API To Search, Collect And Track Worldwide News
+
 ## Agent Runtimes & Orchestration
 
 - [Herdr](https://herdr.dev) - The runtime coding agents live on. Holds terminals open so agents survive lid-close and reboots, marks each agent working/blocked/idle, and lets you reattach from anywhere.
