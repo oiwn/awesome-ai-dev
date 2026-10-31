@@ -39,6 +39,7 @@ A curated list of coding agents, runtimes, tooling, and reading for AI-assisted 
 ## Agent Tooling
 
 - [agent-browser](https://agent-browser.dev) - Browser automation CLI designed for AI agents (Vercel). Ref-based accessibility snapshots use a fraction of the tokens of a full DOM, with a native Rust daemon and 50+ commands.
+- [agent-qa](https://vostride.com) - Tests web, Android and iOS apps through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable run evidence.
 - [Symposium](https://github.com/symposium-dev/symposium) - `cargo agents`: scans a Rust workspace's dependency graph and installs crate-specific skills, hooks, and MCP servers into the coding agents you use.
 - [agtrace](https://github.com/lanegrid/agtrace) - Observability for coding agents: live context-window usage, token consumption trends, tool-call activity, and searchable session history your agent can query via MCP.
 
